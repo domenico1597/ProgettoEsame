@@ -60,3 +60,13 @@ Esempi di rotte:
 
 ![Screenshot (186)](https://user-images.githubusercontent.com/114992312/201187060-79b21144-07d5-4e6b-9be5-947c4bc9b9da.png)
 
+
+
+
+
+
+
+**UML**
+
+![UML](https://user-images.githubusercontent.com/116668334/201200473-05448ac5-1fef-462c-8623-5a32a4f04e35.JPG)
+
