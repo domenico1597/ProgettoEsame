@@ -20,3 +20,43 @@ Il progetto implementa un servizio meteo che a seconda della rotta scelta esegue
 Esempi di rotte:
 
 **/forecast?name=ancona**
+
+
+![Screenshot (182)](https://user-images.githubusercontent.com/114992312/201186559-1a049ece-c8c0-42f8-b796-6cd8e867c91f.png)
+
+
+
+
+
+
+
+
+
+
+
+**/current?name=ancona**
+
+
+![Screenshot (183)](https://user-images.githubusercontent.com/114992312/201186738-ec685e47-a93c-4f28-8954-0ac3af2e8ff6.png)
+
+
+
+
+**/errors?name=ancona**
+
+
+![Screenshot (184)](https://user-images.githubusercontent.com/114992312/201186755-983e177d-5cfb-43a7-a730-0e939642cf5a.png)
+
+
+
+**/errStat?name=ancona**
+
+
+![Screenshot (185)](https://user-images.githubusercontent.com/114992312/201186772-2bb678fc-b3e1-41af-8adc-20de565450d7.png)
+
+
+**/filters?start=10-11-2022&finish=12-11-2022&startTime=9:30&finishTime=11:30**
+
+
+![Screenshot (186)](https://user-images.githubusercontent.com/114992312/201187060-79b21144-07d5-4e6b-9be5-947c4bc9b9da.png)
+
